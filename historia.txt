@@ -3,3 +3,5 @@ Esta es la primera prueba de Git
 También se habla de Andres Avila
 
 Es Ingeniero de Sistemas, Diseñador Gráfico y Especialista en Finanzas.
+
+Actualmente está dedicado al negocio de finca raíz.
