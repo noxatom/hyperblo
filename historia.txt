@@ -2,4 +2,4 @@ Esta es la primera prueba de Git
 
 También se habla de Andres Avila
 
-Es Arquitecto
+Es Ingeniero de Sistemas
