@@ -11,3 +11,5 @@ Es especializado en finanzas
 Ahora estos cambios hacen parte de la rama "experimento"
 
 Esto es una adición por consolo con VIM
+
+Porque no sale la conitnuación
